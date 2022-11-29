@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at (here in my github)
 
-- 💬 Ask me about **-Html - Css - Tailwind - Bootstrap - Javascript - - Reactjs - - Nextjs - - Typescript -**
+- 💬 Ask me about **- Html - Css - Tailwind - Bootstrap - Javascript - - Reactjs - - Nextjs - - Typescript -**
 
 - 📫 How to reach me ** elkamel.mesbahi@gmail.com **
 
